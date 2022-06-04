@@ -1,6 +1,6 @@
 {
   "name": "random-messages-by-gabo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "random message generator",
   "main": "src/index.js",
   "scripts": {
