@@ -5,7 +5,7 @@ A little package I made following a Platzi's NPM course, it just console.log a r
 ## Install
 
 ```npm
-npm install -g random-msg
+npm i random-messages-by-gabo
 ```
 
 # Usage
